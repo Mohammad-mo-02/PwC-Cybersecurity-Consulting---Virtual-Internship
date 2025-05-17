@@ -27,8 +27,6 @@ Evaluate the client's Procure-to-Pay (P2P) SOP for control deficiencies that cou
 **Deliverable:**  
 Submitted a detailed email to the senior associate highlighting both business process and system control deficiencies. Also included a set of targeted follow-up questions to address during the walkthrough. This task demonstrated risk-based analysis and professional communication in a consultancy-style format.
 
-📄 File: `Task-1-P2P-Gap-Analysis/P2P-Control-Gaps-Summary.pdf`
-
 ---
 
  🛠️ Task 2 – SDLC Audit Walkthrough
@@ -47,9 +45,6 @@ Conduct a walkthrough audit of the client's software development lifecycle (SDLC
 - Prepared and delivered a strategic set of audit questions to the IT manager (Bob), focusing on the identified control gaps.
 - Demonstrated the ability to drive conversations during a time-limited stakeholder meeting and adjust based on brief or unclear answers.
 - Reflected real-life skills used in IT risk interviews and SOX readiness engagements.
-
-📄 File: `Task-2-SDLC-Walkthrough/SDLC-Gap-Findings.md`  
-📄 File: `Task-2-SDLC-Walkthrough/Mock-Walkthrough-Response-Summary.md`
 
 ---
 
